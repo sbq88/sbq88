@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 👯欢迎访问。✨😄📫 
 
-[![sbq88's github stats](https://github-readme-stats-sbq88.vercel.app/api?username=sbq88&show_icons=true&theme=gruvbox)](https://github.com/sbq88)
+[![sbq88's github stats](https://github-readme-stats.vercel.app/api?username=sbq88&show_icons=true&theme=dracula)](https://github.com/sbq88)
 
-[![Top Langs](https://github-readme-stats-sbq88.vercel.app/api/top-langs/?username=sbq88&show_icons=true)](https://github.com/sbq88)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbq88&show_icons=true)](https://github.com/sbq88)
 
-[![Page Views Count](https://badges.toozhao.com/badges/01EKHD0FKMCRYD43BB56C2S40G/green.svg)](https://badges.toozhao.com/badges/01EKHD0FKMCRYD43BB56C2S40G/green.svg "Get your own page views count badge on badges.toozhao.com")
+[![Page Views Count](https://badges.toozhao.com/badges/01F06CP8X3T2R54WBV1VW43FMN/green.svg)](https://badges.toozhao.com/stats/01F06CP8X3T2R54WBV1VW43FMN "Get your own page views count badge on badges.toozhao.com")
